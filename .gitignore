@@ -1,0 +1,4 @@
+config.local.php
+data/*.sqlite
+data/installed.lock
+.DS_Store
